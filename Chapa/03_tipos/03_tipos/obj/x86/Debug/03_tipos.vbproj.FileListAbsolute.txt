@@ -1,0 +1,12 @@
+C:\Visual_17_18\03_tipos\03_tipos\bin\Debug\03_tipos.exe
+C:\Visual_17_18\03_tipos\03_tipos\bin\Debug\03_tipos.pdb
+C:\Visual_17_18\03_tipos\03_tipos\bin\Debug\03_tipos.xml
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\_03_tipos.frmTipos.resources
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\_03_tipos.Resources.resources
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\03_tipos.vbproj.GenerateResource.Cache
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\03_tipos.exe
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\03_tipos.xml
+C:\Visual_17_18\03_tipos\03_tipos\obj\x86\Debug\03_tipos.pdb
+E:\Esc\DEIN\Chapa\03_tipos\03_tipos\obj\x86\Debug\03_tipos.exe
+E:\Esc\DEIN\Chapa\03_tipos\03_tipos\obj\x86\Debug\03_tipos.xml
+E:\Esc\DEIN\Chapa\03_tipos\03_tipos\obj\x86\Debug\03_tipos.pdb

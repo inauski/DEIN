@@ -1,0 +1,10 @@
+C:\Visual_17_18\02_variables\02_variables\bin\Debug\02_variables.exe
+C:\Visual_17_18\02_variables\02_variables\bin\Debug\02_variables.pdb
+C:\Visual_17_18\02_variables\02_variables\bin\Debug\02_variables.xml
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\_02_variables.frmVariables.resources
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\_02_variables.Resources.resources
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\02_variables.vbproj.GenerateResource.Cache
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\02_variables.exe
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\02_variables.xml
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\02_variables.pdb
+C:\Visual_17_18\02_variables\02_variables\obj\x86\Debug\_02_variables.Form2.resources

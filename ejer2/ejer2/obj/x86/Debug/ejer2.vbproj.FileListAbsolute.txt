@@ -1,9 +1,0 @@
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.Form1.resources
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.Resources.resources
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.vbproj.GenerateResource.Cache
-E:\Esc\DEIN\Ej\ejer2\ejer2\bin\Debug\ejer2.exe
-E:\Esc\DEIN\Ej\ejer2\ejer2\bin\Debug\ejer2.pdb
-E:\Esc\DEIN\Ej\ejer2\ejer2\bin\Debug\ejer2.xml
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.exe
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.xml
-E:\Esc\DEIN\Ej\ejer2\ejer2\obj\x86\Debug\ejer2.pdb

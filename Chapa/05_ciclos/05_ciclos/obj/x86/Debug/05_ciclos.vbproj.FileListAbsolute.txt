@@ -1,0 +1,9 @@
+C:\Visual_17_18\05_ciclos\05_ciclos\bin\Debug\05_ciclos.exe
+C:\Visual_17_18\05_ciclos\05_ciclos\bin\Debug\05_ciclos.pdb
+C:\Visual_17_18\05_ciclos\05_ciclos\bin\Debug\05_ciclos.xml
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\_05_ciclos.Form1.resources
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\_05_ciclos.Resources.resources
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\05_ciclos.vbproj.GenerateResource.Cache
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\05_ciclos.exe
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\05_ciclos.xml
+C:\Visual_17_18\05_ciclos\05_ciclos\obj\x86\Debug\05_ciclos.pdb
