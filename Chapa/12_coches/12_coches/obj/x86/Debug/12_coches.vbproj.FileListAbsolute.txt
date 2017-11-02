@@ -1,0 +1,12 @@
+C:\Visual_17_18\12_coches\12_coches\bin\Debug\12_coches.exe
+C:\Visual_17_18\12_coches\12_coches\bin\Debug\12_coches.pdb
+C:\Visual_17_18\12_coches\12_coches\bin\Debug\12_coches.xml
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\_12_coches.frm.resources
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\_12_coches.Resources.resources
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\12_coches.vbproj.GenerateResource.Cache
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\12_coches.exe
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\12_coches.xml
+C:\Visual_17_18\12_coches\12_coches\obj\x86\Debug\12_coches.pdb
+E:\Esc\DEIN\Chapa\12_coches\12_coches\obj\x86\Debug\12_coches.exe
+E:\Esc\DEIN\Chapa\12_coches\12_coches\obj\x86\Debug\12_coches.xml
+E:\Esc\DEIN\Chapa\12_coches\12_coches\obj\x86\Debug\12_coches.pdb

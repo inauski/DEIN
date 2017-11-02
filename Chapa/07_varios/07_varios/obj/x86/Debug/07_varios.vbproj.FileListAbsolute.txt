@@ -1,0 +1,9 @@
+E:\Esc\DEIN\Chapa\07_varios\07_varios\bin\Debug\07_varios.exe
+E:\Esc\DEIN\Chapa\07_varios\07_varios\bin\Debug\07_varios.pdb
+E:\Esc\DEIN\Chapa\07_varios\07_varios\bin\Debug\07_varios.xml
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\_07_varios.Form1.resources
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\_07_varios.Resources.resources
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\07_varios.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\07_varios.exe
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\07_varios.xml
+E:\Esc\DEIN\Chapa\07_varios\07_varios\obj\x86\Debug\07_varios.pdb

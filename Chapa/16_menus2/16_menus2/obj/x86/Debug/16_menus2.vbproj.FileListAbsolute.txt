@@ -1,0 +1,9 @@
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\bin\Debug\16_menus2.exe
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\bin\Debug\16_menus2.pdb
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\bin\Debug\16_menus2.xml
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\_16_menus2.Form1.resources
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\_16_menus2.Resources.resources
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\16_menus2.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\16_menus2.exe
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\16_menus2.xml
+F:\Esc\DEIN\Chapa\16_menus2\16_menus2\obj\x86\Debug\16_menus2.pdb

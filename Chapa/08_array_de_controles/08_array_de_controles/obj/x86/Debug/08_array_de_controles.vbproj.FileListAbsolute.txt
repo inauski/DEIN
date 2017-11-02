@@ -1,0 +1,15 @@
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\bin\Debug\08_array_de_controles.exe
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\bin\Debug\08_array_de_controles.pdb
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\bin\Debug\08_array_de_controles.xml
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\_08_array_de_controles.Form1.resources
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\_08_array_de_controles.Resources.resources
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.vbproj.GenerateResource.Cache
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.exe
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.xml
+C:\Visual_17_18\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.pdb
+E:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.exe
+E:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.xml
+E:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.pdb
+F:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.exe
+F:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.xml
+F:\Esc\DEIN\Chapa\08_array_de_controles\08_array_de_controles\obj\x86\Debug\08_array_de_controles.pdb

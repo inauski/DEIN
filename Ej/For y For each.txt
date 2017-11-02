@@ -1,0 +1,20 @@
+https://docs.microsoft.com/es-es/dotnet/visual-basic/language-reference/statements/for-each-next-statement
+For each variable as Tipo in ColeccionDatos
+
+next
+
+For Each unidades In Form1.lstUnid.Items 'recorremos la lista de unidades del form1 y la sumamos
+    suma = suma + unidades
+Next
+
+ 
+https://docs.microsoft.com/es-es/dotnet/visual-basic/language-reference/statements/for-next-statement
+for variable = valorinicial to valorfinal step valorenelqueseincrementa
+
+next
+
+For i = 0 To lstUnidades.Items.Count - 1
+    suma += lstUnidades.Items(i)
+Next
+
+http://www.elguille.info/NET/dotnet/equivalenciavbcs1.htm#buclesFor (varios lenguajes)

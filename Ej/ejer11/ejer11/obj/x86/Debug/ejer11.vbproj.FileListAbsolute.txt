@@ -1,0 +1,12 @@
+E:\Esc\DEIN\Ej\ejer11\ejer11\bin\Debug\ejer11.exe
+E:\Esc\DEIN\Ej\ejer11\ejer11\bin\Debug\ejer11.pdb
+E:\Esc\DEIN\Ej\ejer11\ejer11\bin\Debug\ejer11.xml
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.Form1.resources
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.Resources.resources
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.exe
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.xml
+E:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.pdb
+F:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.exe
+F:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.xml
+F:\Esc\DEIN\Ej\ejer11\ejer11\obj\x86\Debug\ejer11.pdb

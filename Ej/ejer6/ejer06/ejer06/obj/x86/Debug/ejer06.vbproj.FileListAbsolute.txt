@@ -1,0 +1,9 @@
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\bin\Debug\ejer06.exe
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\bin\Debug\ejer06.pdb
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\bin\Debug\ejer06.xml
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.Form1.resources
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.Resources.resources
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.exe
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.xml
+E:\Esc\DEIN\Ej\ejer6\ejer06\ejer06\obj\x86\Debug\ejer06.pdb

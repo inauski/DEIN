@@ -1,0 +1,12 @@
+C:\Visual_17_18\13_funciones\13_funciones\bin\Debug\13_funciones.exe
+C:\Visual_17_18\13_funciones\13_funciones\bin\Debug\13_funciones.pdb
+C:\Visual_17_18\13_funciones\13_funciones\bin\Debug\13_funciones.xml
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\_13_funciones.Form1.resources
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\_13_funciones.Resources.resources
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\13_funciones.vbproj.GenerateResource.Cache
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\13_funciones.exe
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\13_funciones.xml
+C:\Visual_17_18\13_funciones\13_funciones\obj\x86\Debug\13_funciones.pdb
+E:\Esc\DEIN\Chapa\13_funciones\13_funciones\obj\x86\Debug\13_funciones.exe
+E:\Esc\DEIN\Chapa\13_funciones\13_funciones\obj\x86\Debug\13_funciones.xml
+E:\Esc\DEIN\Chapa\13_funciones\13_funciones\obj\x86\Debug\13_funciones.pdb

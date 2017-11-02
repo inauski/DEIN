@@ -1,0 +1,20 @@
+d:\documents\visual studio 2010\ejer7\ejer7\bin\Debug\ejer7.exe
+d:\documents\visual studio 2010\ejer7\ejer7\bin\Debug\ejer7.pdb
+d:\documents\visual studio 2010\ejer7\ejer7\bin\Debug\ejer7.xml
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.Form1.resources
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.Form2.resources
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.Resources.resources
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.exe
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.xml
+d:\documents\visual studio 2010\ejer7\ejer7\obj\x86\Debug\ejer7.pdb
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.exe
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.xml
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.pdb
+E:\Esc\DEIN\Ej\ejer7\ejer7\bin\Debug\ejer7.exe
+E:\Esc\DEIN\Ej\ejer7\ejer7\bin\Debug\ejer7.pdb
+E:\Esc\DEIN\Ej\ejer7\ejer7\bin\Debug\ejer7.xml
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.Form1.resources
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.Form2.resources
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.Resources.resources
+E:\Esc\DEIN\Ej\ejer7\ejer7\obj\x86\Debug\ejer7.vbproj.GenerateResource.Cache

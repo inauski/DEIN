@@ -1,0 +1,9 @@
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\bin\Debug\14_varios3.exe
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\bin\Debug\14_varios3.pdb
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\bin\Debug\14_varios3.xml
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\_14_varios3.Form1.resources
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\_14_varios3.Resources.resources
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\14_varios3.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\14_varios3.exe
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\14_varios3.xml
+E:\Esc\DEIN\Chapa\14_varios3\14_varios3\obj\x86\Debug\14_varios3.pdb

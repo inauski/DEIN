@@ -1,0 +1,33 @@
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Caratula.resources
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Multicines.resources
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Resources.resources
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.exe
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.pdb
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.xml
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.cambio.resources
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.exe
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.xml
+d:\documents\visual studio 2010\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.pdb
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.exe
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.xml
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.pdb
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.exe
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.pdb
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.xml
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.cambio.resources
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Caratula.resources
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Multicines.resources
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Resources.resources
+E:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.exe
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.xml
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.pdb
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.exe
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.pdb
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\bin\Debug\ejer13_multicine.xml
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.cambio.resources
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Caratula.resources
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Multicines.resources
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.Resources.resources
+F:\Esc\DEIN\Ej\ejer13_multicine\ejer13_multicine\obj\x86\Debug\ejer13_multicine.vbproj.GenerateResource.Cache

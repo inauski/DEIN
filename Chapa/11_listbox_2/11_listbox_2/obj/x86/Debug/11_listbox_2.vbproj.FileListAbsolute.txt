@@ -1,0 +1,12 @@
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\bin\Debug\11_listbox_2.exe
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\bin\Debug\11_listbox_2.pdb
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\bin\Debug\11_listbox_2.xml
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\_11_listbox_2.Form1.resources
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\_11_listbox_2.Resources.resources
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.exe
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.xml
+E:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.pdb
+F:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.exe
+F:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.xml
+F:\Esc\DEIN\Chapa\11_listbox_2\11_listbox_2\obj\x86\Debug\11_listbox_2.pdb

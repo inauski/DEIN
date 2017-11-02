@@ -1,0 +1,12 @@
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\bin\Debug\ejercicioapoyo1.exe
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\bin\Debug\ejercicioapoyo1.pdb
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\bin\Debug\ejercicioapoyo1.xml
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.Form1.resources
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.Resources.resources
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.vbproj.GenerateResource.Cache
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.exe
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.xml
+C:\Visual_17_18\Ejercicios\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.pdb
+E:\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.exe
+E:\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.xml
+E:\ejercicioapoyo1\ejercicioapoyo1\obj\x86\Debug\ejercicioapoyo1.pdb

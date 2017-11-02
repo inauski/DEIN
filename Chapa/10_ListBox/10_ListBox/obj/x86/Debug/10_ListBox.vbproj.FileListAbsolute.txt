@@ -1,0 +1,15 @@
+C:\Visual_17_18\10_ListBox\10_ListBox\bin\Debug\10_ListBox.exe
+C:\Visual_17_18\10_ListBox\10_ListBox\bin\Debug\10_ListBox.pdb
+C:\Visual_17_18\10_ListBox\10_ListBox\bin\Debug\10_ListBox.xml
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\_10_ListBox.Form1.resources
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\_10_ListBox.Resources.resources
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.vbproj.GenerateResource.Cache
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.exe
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.xml
+C:\Visual_17_18\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.pdb
+E:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.exe
+E:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.xml
+E:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.pdb
+F:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.exe
+F:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.xml
+F:\Esc\DEIN\Chapa\10_ListBox\10_ListBox\obj\x86\Debug\10_ListBox.pdb

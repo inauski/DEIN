@@ -1,0 +1,12 @@
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\bin\Debug\15_arrayDeControles.exe
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\bin\Debug\15_arrayDeControles.pdb
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\bin\Debug\15_arrayDeControles.xml
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\_15_arrayDeControles.Form1.resources
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\_15_arrayDeControles.Resources.resources
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.vbproj.GenerateResource.Cache
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.exe
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.xml
+C:\Visual_17_18\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.pdb
+F:\Esc\DEIN\Chapa\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.exe
+F:\Esc\DEIN\Chapa\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.xml
+F:\Esc\DEIN\Chapa\15_arrayDeControles\15_arrayDeControles\obj\x86\Debug\15_arrayDeControles.pdb
