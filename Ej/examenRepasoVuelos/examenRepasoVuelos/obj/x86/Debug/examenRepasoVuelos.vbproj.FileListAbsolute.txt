@@ -25,3 +25,12 @@ F:\Esc\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\bin\Debug\examenRepasoVuelo
 F:\Esc\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.Form1.resources
 F:\Esc\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.Resources.resources
 F:\Esc\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.vbproj.GenerateResource.Cache
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.exe
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.xml
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.pdb
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\bin\Debug\examenRepasoVuelos.exe
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\bin\Debug\examenRepasoVuelos.pdb
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\bin\Debug\examenRepasoVuelos.xml
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.Form1.resources
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.Resources.resources
+D:\Documents\GitHub\DEIN\Ej\examenRepasoVuelos\examenRepasoVuelos\obj\x86\Debug\examenRepasoVuelos.vbproj.GenerateResource.Cache

@@ -128,6 +128,9 @@
                 MessageBox.Show(txtNombre.Text + " " + txtApellido.Text + vbNewLine + vbNewLine + txtCodigoPostal.Text + vbNewLine + vbNewLine + "has realizado una compra de: " + vbNewLine + vbNewLine + etTotal.Text + vbNewLine + vbNewLine + " en viajes.")
                 lstCompras.Items.Clear()
                 etTotal.Text = "Total a pagar: " & CStr(0) & "€"
+                txtNombre.Text = ""
+                txtApellido.Text = ""
+                txtCodigoPostal.Text = ""
             End If
         End If
 
@@ -139,6 +142,9 @@
         If respuesta = Windows.Forms.DialogResult.Yes Then
             lstCompras.Items.Clear()
             etTotal.Text = "Total a pagar: " & CStr(0) & "€"
+            txtNombre.Text = ""
+            txtApellido.Text = ""
+            txtCodigoPostal.Text = ""
         End If
     End Sub
 
