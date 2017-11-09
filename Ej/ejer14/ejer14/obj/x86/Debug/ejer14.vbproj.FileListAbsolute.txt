@@ -1,0 +1,13 @@
+E:\Esc\DEIN\Ej\ejer14\ejer14\bin\Debug\ejer14.exe
+E:\Esc\DEIN\Ej\ejer14\ejer14\bin\Debug\ejer14.pdb
+E:\Esc\DEIN\Ej\ejer14\ejer14\bin\Debug\ejer14.xml
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.Form1.resources
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.Resources.resources
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.vbproj.GenerateResource.Cache
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.exe
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.xml
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.pdb
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.frmBajas.resources
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.frmAltasEnPos.resources
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.frmAltasFinal.resources
+E:\Esc\DEIN\Ej\ejer14\ejer14\obj\x86\Debug\ejer14.frmAcercaDe.resources
