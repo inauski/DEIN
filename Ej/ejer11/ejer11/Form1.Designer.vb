@@ -36,7 +36,6 @@ Partial Class Form1
         Me.btnEntrarSalto = New System.Windows.Forms.Button()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.lblMejorSalto = New System.Windows.Forms.Label()
-        Me.lblMejorSaltoNum = New System.Windows.Forms.Label()
         Me.btnSalir = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.lblNulo = New System.Windows.Forms.Label()
@@ -59,6 +58,7 @@ Partial Class Form1
         '
         'ListBox1
         '
+        Me.ListBox1.Enabled = False
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.Location = New System.Drawing.Point(33, 161)
         Me.ListBox1.Name = "ListBox1"
@@ -67,6 +67,7 @@ Partial Class Form1
         '
         'ListBox2
         '
+        Me.ListBox2.Enabled = False
         Me.ListBox2.FormattingEnabled = True
         Me.ListBox2.Location = New System.Drawing.Point(108, 161)
         Me.ListBox2.Name = "ListBox2"
@@ -75,6 +76,7 @@ Partial Class Form1
         '
         'ListBox3
         '
+        Me.ListBox3.Enabled = False
         Me.ListBox3.FormattingEnabled = True
         Me.ListBox3.Location = New System.Drawing.Point(184, 161)
         Me.ListBox3.Name = "ListBox3"
@@ -164,20 +166,13 @@ Partial Class Form1
         'lblMejorSalto
         '
         Me.lblMejorSalto.AutoSize = True
+        Me.lblMejorSalto.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblMejorSalto.ForeColor = System.Drawing.Color.Blue
         Me.lblMejorSalto.Location = New System.Drawing.Point(183, 466)
         Me.lblMejorSalto.Name = "lblMejorSalto"
-        Me.lblMejorSalto.Size = New System.Drawing.Size(39, 13)
+        Me.lblMejorSalto.Size = New System.Drawing.Size(38, 18)
         Me.lblMejorSalto.TabIndex = 11
-        Me.lblMejorSalto.Text = "Label4"
-        '
-        'lblMejorSaltoNum
-        '
-        Me.lblMejorSaltoNum.AutoSize = True
-        Me.lblMejorSaltoNum.Location = New System.Drawing.Point(437, 463)
-        Me.lblMejorSaltoNum.Name = "lblMejorSaltoNum"
-        Me.lblMejorSaltoNum.Size = New System.Drawing.Size(39, 13)
-        Me.lblMejorSaltoNum.TabIndex = 12
-        Me.lblMejorSaltoNum.Text = "Label5"
+        Me.lblMejorSalto.Text = "XXX"
         '
         'btnSalir
         '
@@ -208,9 +203,9 @@ Partial Class Form1
         Me.lblNulo.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblNulo.Location = New System.Drawing.Point(431, 374)
         Me.lblNulo.Name = "lblNulo"
-        Me.lblNulo.Size = New System.Drawing.Size(29, 31)
+        Me.lblNulo.Size = New System.Drawing.Size(33, 31)
         Me.lblNulo.TabIndex = 15
-        Me.lblNulo.Text = "5"
+        Me.lblNulo.Text = "X"
         '
         'Panel1
         '
@@ -277,7 +272,6 @@ Partial Class Form1
         Me.Controls.Add(Me.lblNulo)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.btnSalir)
-        Me.Controls.Add(Me.lblMejorSaltoNum)
         Me.Controls.Add(Me.lblMejorSalto)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.btnEntrarSalto)
@@ -310,7 +304,6 @@ Partial Class Form1
     Friend WithEvents btnEntrarSalto As System.Windows.Forms.Button
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents lblMejorSalto As System.Windows.Forms.Label
-    Friend WithEvents lblMejorSaltoNum As System.Windows.Forms.Label
     Friend WithEvents btnSalir As System.Windows.Forms.Button
     Friend WithEvents Label4 As System.Windows.Forms.Label
     Friend WithEvents lblNulo As System.Windows.Forms.Label
