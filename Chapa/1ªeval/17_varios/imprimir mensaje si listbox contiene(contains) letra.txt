@@ -1,0 +1,8 @@
+ Private Sub Button3_Click(sender As System.Object, e As System.EventArgs) Handles Button3.Click
+        For i = 0 To ListBox1.Items.Count - 1
+            If ListBox1.Items(i).Contains("o") = True Then
+                'If ListBox1.Items(i).indexOf("chi") = True Then
+                MessageBox.Show(ListBox1.Items(i)) 'si alguna palabra del listbox contiene la 'o' nos mostrara las palabras q la contienen
+            End If
+        Next
+    End Sub

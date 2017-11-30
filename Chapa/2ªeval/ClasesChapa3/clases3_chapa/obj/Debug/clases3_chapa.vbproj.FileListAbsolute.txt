@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\bin\Debug\clases3_chapa.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\bin\Debug\clases3_chapa.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\bin\Debug\clases3_chapa.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\obj\Debug\clases3_chapa.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\obj\Debug\clases3_chapa.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\obj\Debug\clases3_chapa.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\obj\Debug\clases3_chapa.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases3_chapa\clases3_chapa\obj\Debug\clases3_chapa.pdb

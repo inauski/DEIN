@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\clase02.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\clase02.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\clase02.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\numeritos.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\numeritos.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\bin\Debug\numeritos.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.vbprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.Form1.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\clase02\obj\x86\Debug\clase02.pdb

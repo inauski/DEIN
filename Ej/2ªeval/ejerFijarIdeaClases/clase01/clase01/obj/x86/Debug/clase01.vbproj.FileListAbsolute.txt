@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\bin\Debug\clase01.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\bin\Debug\clase01.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\bin\Debug\clase01.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.Form1.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase01\clase01\obj\x86\Debug\clase01.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase01\clase01\obj\x86\Debug\clase01.exe
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase01\clase01\obj\x86\Debug\clase01.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase01\clase01\obj\x86\Debug\clase01.pdb

@@ -1,0 +1,13 @@
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\Clases_chapa2.exe
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\Clases_chapa2.pdb
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\Clases_chapa2.xml
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\figuraGeometrica.dll
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\figuraGeometrica.pdb
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\bin\Debug\figuraGeometrica.xml
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.vbprojResolveAssemblyReference.cache
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.Form1.resources
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.Resources.resources
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.exe
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.xml
+F:\Esc\DEIN\Chapa\2ª\Clases_chapa2\Clases_chapa2\obj\x86\Debug\Clases_chapa2.pdb

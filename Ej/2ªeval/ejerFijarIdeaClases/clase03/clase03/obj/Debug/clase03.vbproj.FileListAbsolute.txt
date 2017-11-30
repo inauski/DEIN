@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\bin\Debug\clase03.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\bin\Debug\clase03.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\bin\Debug\clase03.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\obj\Debug\clase03.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\obj\Debug\clase03.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\obj\Debug\clase03.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\obj\Debug\clase03.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase03\clase03\obj\Debug\clase03.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\bin\Debug\clase03.dll
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\bin\Debug\clase03.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\bin\Debug\clase03.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\obj\Debug\clase03.Resources.resources
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\obj\Debug\clase03.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\obj\Debug\clase03.dll
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\obj\Debug\clase03.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase03\clase03\obj\Debug\clase03.pdb

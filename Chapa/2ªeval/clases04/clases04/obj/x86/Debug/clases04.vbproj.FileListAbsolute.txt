@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases04.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases04.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases04.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases3_chapa.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases3_chapa.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\bin\Debug\clases3_chapa.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.vbprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.Form1.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases04\clases04\obj\x86\Debug\clases04.pdb
+F:\Esc\DEIN\Chapa\2ª\clases04\clases04\obj\x86\Debug\clases04.exe
+F:\Esc\DEIN\Chapa\2ª\clases04\clases04\obj\x86\Debug\clases04.xml
+F:\Esc\DEIN\Chapa\2ª\clases04\clases04\obj\x86\Debug\clases04.pdb

@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\bin\Debug\numeritos.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\bin\Debug\numeritos.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\bin\Debug\numeritos.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\obj\Debug\numeritos.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\obj\Debug\numeritos.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\obj\Debug\numeritos.dll
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\obj\Debug\numeritos.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clase02\numeritos\obj\Debug\numeritos.pdb

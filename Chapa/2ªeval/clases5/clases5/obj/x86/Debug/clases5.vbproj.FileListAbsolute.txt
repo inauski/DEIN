@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\bin\Debug\clases5.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\bin\Debug\clases5.pdb
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\bin\Debug\clases5.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.Form1.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.Resources.resources
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.vbproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.exe
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.xml
+C:\Users\alumno\Desktop\DAM 2 Iñaki\DEIN\Visual_17-18\clases5\clases5\obj\x86\Debug\clases5.pdb

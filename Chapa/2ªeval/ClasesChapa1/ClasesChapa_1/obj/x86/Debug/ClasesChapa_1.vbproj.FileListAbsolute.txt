@@ -1,0 +1,9 @@
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\bin\Debug\ClasesChapa_1.exe
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\bin\Debug\ClasesChapa_1.pdb
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\bin\Debug\ClasesChapa_1.xml
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.Form1.resources
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.Resources.resources
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.exe
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.xml
+F:\Esc\DEIN\Chapa\2ª\ClasesChapa_1\ClasesChapa_1\obj\x86\Debug\ClasesChapa_1.pdb

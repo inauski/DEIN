@@ -1,0 +1,13 @@
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase04.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase04.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase03.dll
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase03.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase03.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.vbprojResolveAssemblyReference.cache
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.Form1.resources
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.Resources.resources
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.vbproj.GenerateResource.Cache
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.xml
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.pdb
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\bin\Debug\clase04.exe
+F:\Esc\DEIN\Ej\2ªeval\ejerFijarIdeaClases\clase04\clase04\obj\Debug\clase04.exe
